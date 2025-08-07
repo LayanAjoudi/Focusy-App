@@ -1,16 +1,17 @@
-# project_app1
+# Focusy To-Do List
 
-A new Flutter project.
+**Focusy To-Do List** is a simple yet smart task management application built with Flutter. It helps users organize their daily tasks efficiently and track their productivity through visual stats and built-in timers.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 📝 Add, edit, and delete tasks easily.
+- 🕒 Task Timer: Track how much time you spend on each task.
+- 📊 Statistics Dashboard: Visual insights on completed tasks and time distribution.
+- 📂 Task categorization with status indicators (e.g., pending, in progress, completed).
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## UI Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can view all the UI designs in the following PDF file:
+
+[View UI Screenshots (Google Drive)](https://drive.google.com/file/d/1SgDfNJSLFSurLbbMijFJolhWM3LIcAJ1/view?usp=share_link)
